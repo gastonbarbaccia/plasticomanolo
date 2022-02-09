@@ -8521,8 +8521,8 @@ input.quickview__value--number {
 }
 
 .product__media--nav {
-    /*margin-top: 2rem*/
-    margin-top:  -22rem;
+    margin-top: 2rem
+   
 }
 
 .product__media--nav__items {
